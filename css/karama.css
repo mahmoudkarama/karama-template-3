@@ -1373,12 +1373,12 @@ nav .mega .links li a i {
     flex-basis: 50%;
     text-align: center;
     color: white;
-    padding: 30px;
+    padding: 15px;
     z-index: 1;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 20px;
+    gap: 15px;
 }
 .discount .image::before {
     content: "";
@@ -1396,21 +1396,21 @@ nav .mega .links li a i {
 .discount .request {
     flex-basis: 50%;
     text-align: center;
-    padding: 30px 50px;
+    padding: 15px 50px;
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 15px;
 }
 .discount .request form {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 15px;
     align-items: center;
-    padding: 20px;
+    padding: 15px 20px;
 }
 .discount .request form input {
     width: 100%;
-    padding: 20px;
+    padding: 15px;
     border: none;
     border-bottom: 1px solid #ccc;
     background-color: #f9f9f9;
@@ -1418,7 +1418,7 @@ nav .mega .links li a i {
 }
 .discount .request form textarea {
     width: 100%;
-    padding: 20px;
+    padding: 15px;
     border: none;
     border-bottom: 1px solid #ccc;
     background-color: #f9f9f9;
